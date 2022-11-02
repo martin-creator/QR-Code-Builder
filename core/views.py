@@ -1,5 +1,5 @@
 from rest_framework import generics
-from . import models, serializers
+from . import models, serializers, permissions
 
 # Create your views here.
 
